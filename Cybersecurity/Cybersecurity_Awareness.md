@@ -15,7 +15,7 @@ Today, we will focus on one of the most common type of attacks that is experienc
 
 #### What is cyber security? #### 
 
-Cyber security is the practice of defending computers, servers, mobile devices, electronic systems, networks, and data from malicious attacks. It's also known as information technology security or electronic information security. The term applies in a variety of contexts, from business to mobile computing. ```diff - Reference ``` *https://www.kaspersky.com/resource-center/definitions/what-is-cyber-security*
+Cyber security is the practice of defending computers, servers, mobile devices, electronic systems, networks, and data from malicious attacks. It's also known as information technology security or electronic information security. The term applies in a variety of contexts, from business to mobile computing.*https://www.kaspersky.com/resource-center/definitions/what-is-cyber-security*
 
 Cyber Security can be further classified into 2 types. 
 
@@ -72,7 +72,7 @@ In this type of attack, USB sticks are dropped casually on the ground outside th
 
 Now let’s look at a real life phishing attack that you will come across on social media platforms that when you click lead you to a phishing page.
 In Twitter or whatsApp etc. you may have come across a URL like bit.ly…. that requests you to click on the link to get a price or to sign up for some giveaways. Once you click this link they may request you to sign up for prices or different enticing stuff. When they get your info e.g. email they can sent emails with more sophisticated attachments when you open trigger attacks for credit cards information collection etc. They can also start to spam your phone with numerous SMS.
-The information will differ depending on the attacker’s way of using social engineering to convince the vulnerable. Don’t be lured on the temptations for the nice things said. Although *bit.l* links can be genuine, always make sure the link is https not http and prefer to go to the official site using there official https domain name than a shortened one. E.g. if you get a link for Winnie foods café promotions with *https://bit.ly/ZAs4r*  link, instead of clicking the shared link, visit *https://winniefoodscafe.com* and verify the offers.
+The information will differ depending on the attacker’s way of using social engineering to convince the vulnerable. Don’t be lured on the temptations for the nice things said. Although *bit.l* links can be genuine, always make sure the link is https not http and prefer to go to the official site using there official https domain name than a shortened one. E.g. if you get a link for Winnie foods café promotions with *https://bit.ly/ZAs4r*  link, instead of clicking the shared link, visit *https://winniefoodscafe.com* and verify the offers. Image reference *https://www.researchgate.net/figure/A-tweet-with-a-short-phishing-URL-using-bitly-When-a-user-clicks-on-the-link-he-is_fig6_220271812* 
 
 
 #### Conclusion. #### 
