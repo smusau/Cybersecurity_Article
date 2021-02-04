@@ -2,6 +2,14 @@
 
 <p align="center"> <b>Phishing Awareness</b> </p>
 
+
+
+<p style='color:red'>This is some red text.</p>
+<font color="red">This is some text!</font>
+These are <b style='color:red'>red words</b>.
+
+
+
 #### Abstract ####
 
 In this article am going to expound one type of cyber security threat that is directed to almost every user on the internet platform. This threat targets all users in the internet from personal devices such as Mobile phones, home computers to large organized institutions and well-structured companies in the world.
