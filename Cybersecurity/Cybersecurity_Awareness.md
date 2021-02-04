@@ -11,7 +11,7 @@ The intentions are well known to the attacker’s examples being credit card inf
 
 #### Introduction ####  
 
-The current cyber security landscape is complex. Attackers develop new and ingenious methods of compromising systems on a daily basis to further their agendas on targets. In this landscape, it’s vast and likely impossible for any individual to comprehend in its entirety.
+The current cyber security landscape is complex. Attackers develop new and ingenious methods of compromising systems on a daily basis to further their agendas on targets. In this landscape is vast and likely impossible for any individual to comprehend in its entirety.
 Today, we will focus on one of the most common type of attacks that is experienced by people on the internet (Phishing).This is a type of attack that uses a specially crafted email or massage (for mobile device apps e.g whatsApp telegram etc.) sent to users in the hope that they will open it. Depending on the sophistication of the attack, the user may have to click on the link to trigger the next stage of the attack. We will discuss the more on the following topics. 
 
 #### What is cyber security? #### 
