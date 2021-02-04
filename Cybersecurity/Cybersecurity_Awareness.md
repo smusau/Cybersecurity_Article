@@ -3,14 +3,6 @@
 <p align="center"> <b>Phishing Awareness</b> </p>
 
 
-<div class="text-purple">
-  This text is purple, <a href="#" class="text-inherit">including the link</a>
-</div>
-
-<img align="left" width="100" height="100" src="phishing.PNG">
-
-
-
 #### Abstract ####
 
 In this article am going to expound one type of cyber security threat that is directed to almost every user on the internet platform. This threat targets all users in the internet from personal devices such as Mobile phones, home computers to large organized institutions and well-structured companies in the world.
@@ -79,6 +71,9 @@ In this type of attack, USB sticks are dropped casually on the ground outside th
 Now let’s look at a real life phishing attack that you will come across on social media platforms that when you click lead you to a phishing page.
 In Twitter or whatsApp etc. you may have come across a URL like bit.ly…. that requests you to click on the link to get a price or to sign up for some giveaways. Once you click this link they may request you to sign up for prices or different enticing stuff. When they get your info e.g. email they can sent emails with more sophisticated attachments when you open trigger attacks for credit cards information collection etc. They can also start to spam your phone with numerous SMS.
 The information will differ depending on the attacker’s way of using social engineering to convince the vulnerable. Don’t be lured on the temptations for the nice things said. Although *bit.l* links can be genuine, always make sure the link is https not http and prefer to go to the official site using there official https domain name than a shortened one. E.g. if you get a link for Winnie foods café promotions with *https://bit.ly/ZAs4r*  link, instead of clicking the shared link, visit *https://winniefoodscafe.com* and verify the offers.
+
+<img align="left" width="100" height="100" src="phishing.PNG">
+
 
 #### Conclusion. #### 
 
