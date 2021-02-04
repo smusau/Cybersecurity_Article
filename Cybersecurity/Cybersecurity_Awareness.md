@@ -1,7 +1,7 @@
 
 ## Phishing Awareness ##
 
-<p align="center"> ## Phishing Awareness ## </p>
+<p align="center"> <b> Phishing Awareness </b> </p>
 
 **Abstract**
 
