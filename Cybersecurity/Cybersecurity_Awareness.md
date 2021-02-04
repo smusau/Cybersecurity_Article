@@ -7,7 +7,7 @@
 In this article am going to expound one type of cyber security threat that is directed to almost every user on the internet platform. This threat targets all users in the internet from personal devices such as Mobile phones, home computers to large organized institutions and well-structured companies in the world.
 The intentions are well known to the attacker’s examples being credit card information to credentials harvesting in corporations for more sophisticated attacks.
 
-**Introduction** 
+#### Introduction ####  
 
 The current cyber security landscape is complex. Attackers develop new and ingenious methods of compromising systems on a daily basis to further their agendas on targets. In this landscape, it’s vast and likely impossible for any one individual to comprehend in its entirety.
 Today, we will focus on one of the most common type of attacks that is experienced by people on the internet (Phishing).This is a type of attack that uses a specially crafted email or massage (for mobile device apps e.g whatsApp telegram etc.) sent to users in the hope that they will open it. Depending on the sophistication of the attack, the user may have to click on the link to trigger the next stage of the attack. We will discuss the more on the following topics. 
@@ -24,7 +24,7 @@ Cyber Security can be further classified into 2 types.
 
 Now that we have an idea of what cyber security is, let’s look at some of the major threats.
 
-**Types of cyber security threats.**
+#### Types of cyber security threats. #### 
 
 Depending on the attacker’s objective, the following can be said to be common major threats in 2021.
 
@@ -45,13 +45,13 @@ Botnets are collections of computers that can be configured to perform a specifi
 As of early 2018, coin mining attacks are becoming increasingly prevalent due to their lucrative nature. Coin mining malware deployed in attacks is sophisticated enough only to use some, not all, of the host systems resources, meaning it isn’t always obvious when a system is infected. Coin mining attacks have also been perpetrated by insiders who use their organization’s infrastructure to generate illicit income.
 For attackers to achieve any of this sophisticated attacks, they might likely use a phishing as initial way to enter to your network or to your device.
 
-**What is Phishing?**
+#### What is Phishing? #### 
 
 This is a type of attack that uses a specially crafted email or massage (for mobile device apps e.g whatsApp telegram etc.) sent to users in the hope that they will open it. Depending on the sophistication of the attack, the user may have to click on the link to trigger the next stage of the attack.
 There are several varieties of phishing attack that require differing levels of user interaction. Simply opening the email may, in some scenarios, trigger remote code execution. Clicking on a link in the email may download remote code that executes directly on the target’s system or may take the user to a website, which triggers remote code execution.
 Another common form of phishing attack involves phishing of credentials. In this type of attack the target user is sent an email that looks legitimate, asking them to navigate to a site where they need to sign in with their organizational credentials to perform a task. For example, an email reminding the user that they must change their email account password that directs them to a site that has been configured to look the same as their normal webmail site. Unless the user is paying attention, it is possible that they may enter their credentials, which end up being harvested for later use by the attacker.
 
-**Types of phishing Attacks.**
+#### Types of phishing Attacks. #### 
 
 **i.	Crafted file attacks.**
 In this type of attack a specially crafted file is emailed to a target user. This file, when opened, executes malicious code that installs the attacker’s software on the recipient’s computer. If the file is crafted well enough, or the configuration of the user’s computer allows untrusted code to run, it’s possible that simply opening the document will trigger the execution of the attacker’s code
@@ -65,7 +65,7 @@ An attack where malware is planted on an insecure site that people at the target
 **iv.	Found USB stick attack.**
 In this type of attack, USB sticks are dropped casually on the ground outside the front entrance of the building or in areas outside the building where employees are known to frequent, such as the area used for cigarette breaks. Some of the employees will plug these USB sticks into their work computer, which allows the malware to be installed on that computer giving the attacker internal network access.
 
-**User case scenario**
+#### User case scenario #### 
 
 Now let’s look at a real life phishing attack that you will come across on social media platforms that when you click lead you to a phishing page.
 In Twitter or whatsApp etc. you may have come across a URL like bit.ly…. that requests you to click on the link to get a price or to sign up for some giveaways. Once you click this link they may request you to sign up for prices or different enticing stuff. When they get your info e.g. email they can sent emails with more sophisticated attachments when you open trigger attacks for credit cards information collection etc. They can also start to spam your phone with numerous SMS.
