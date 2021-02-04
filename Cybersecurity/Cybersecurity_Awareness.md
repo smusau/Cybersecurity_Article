@@ -1,7 +1,7 @@
 
 ## Phishing Awareness ##
 
-<center>Centered text</center>
+<p align="center">centered text</p>
 
 **Abstract**
 
