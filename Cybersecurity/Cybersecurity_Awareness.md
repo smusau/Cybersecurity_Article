@@ -12,7 +12,7 @@ The intentions are well known to the attacker’s examples being credit card inf
 The current cyber security landscape is complex. Attackers develop new and ingenious methods of compromising systems on a daily basis to further their agendas on targets. In this landscape, it’s vast and likely impossible for any one individual to comprehend in its entirety.
 Today, we will focus on one of the most common type of attacks that is experienced by people on the internet (Phishing).This is a type of attack that uses a specially crafted email or massage (for mobile device apps e.g whatsApp telegram etc.) sent to users in the hope that they will open it. Depending on the sophistication of the attack, the user may have to click on the link to trigger the next stage of the attack. We will discuss the more on the following topics. 
 
-**What is cyber security?**
+#### What is cyber security? #### 
 
 Cyber security is the practice of defending computers, servers, mobile devices, electronic systems, networks, and data from malicious attacks. It's also known as information technology security or electronic information security. The term applies in a variety of contexts, from business to mobile computing. *https://www.kaspersky.com/resource-center/definitions/what-is-cyber-security*
 
@@ -71,7 +71,7 @@ Now let’s look at a real life phishing attack that you will come across on soc
 In Twitter or whatsApp etc. you may have come across a URL like bit.ly…. that requests you to click on the link to get a price or to sign up for some giveaways. Once you click this link they may request you to sign up for prices or different enticing stuff. When they get your info e.g. email they can sent emails with more sophisticated attachments when you open trigger attacks for credit cards information collection etc. They can also start to spam your phone with numerous SMS.
 The information will differ depending on the attacker’s way of using social engineering to convince the vulnerable. Don’t be lured on the temptations for the nice things said. Although *bit.l* links can be genuine, always make sure the link is https not http and prefer to go to the official site using there official https domain name than a shortened one. E.g. if you get a link for Winnie foods café promotions with *https://bit.ly/ZAs4r*  link, instead of clicking the shared link, visit *https://winniefoodscafe.com* and verify the offers.
 
-**Conclusion.**
+#### Conclusion.#### 
 
 Today due to high internet penetration, cybersecurity is one of the biggest need of the world as cybersecurity threats are very dangerous to any country’s security. This needs a collective approach from the government’s policies to people responsibilities and sharing awareness as much as possible.
 Always keep yourself updated on new trending threats keeping in mind of the old. For organizations, they need to implement security measures based on the current security policies and keep their systems up-to-date. 
