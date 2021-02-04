@@ -2,7 +2,7 @@
 
 <p align="center"> <b>Phishing Awareness</b> </p>
 
-** AUTHOR: SILVESTER MUSAU. **
+**AUTHOR: SILVESTER MUSAU.**
 
 #### Abstract ####
 
