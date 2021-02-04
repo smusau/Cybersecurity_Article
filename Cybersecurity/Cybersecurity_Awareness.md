@@ -26,7 +26,7 @@ Cyber Security can be further classified into 2 types.
 
 Now that we have an idea of what cyber security is, let’s look at some of the major threats.
 
-#### Types of cyber security threats. #### 
+#### Types of cyber security threats #### 
 
 Depending on the attacker’s objective, the following can be said to be common major threats in 2021.
 
