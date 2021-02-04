@@ -2,6 +2,7 @@
 
 <p align="center"> <b>Phishing Awareness</b> </p>
 
+** AUTHOR: SILVESTER MUSAU. **
 
 #### Abstract ####
 
@@ -21,7 +22,7 @@ Cyber Security can be further classified into 2 types.
 
 **Cybercrime** – these are Crimes done against individuals or corporations 
 
-**Cyber warfare** - this are crimes done against a  state.
+**Cyber warfare** - these are crimes done against a  state.
 
 Now that we have an idea of what cyber security is, let’s look at some of the major threats.
 
