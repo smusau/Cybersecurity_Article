@@ -14,7 +14,7 @@ Today, we will focus on one of the most common type of attacks that is experienc
 
 #### What is cyber security? #### 
 
-Cyber security is the practice of defending computers, servers, mobile devices, electronic systems, networks, and data from malicious attacks. It's also known as information technology security or electronic information security. The term applies in a variety of contexts, from business to mobile computing. ''' diff - Reference ''' *https://www.kaspersky.com/resource-center/definitions/what-is-cyber-security*
+Cyber security is the practice of defending computers, servers, mobile devices, electronic systems, networks, and data from malicious attacks. It's also known as information technology security or electronic information security. The term applies in a variety of contexts, from business to mobile computing. ```diff - Reference ``` *https://www.kaspersky.com/resource-center/definitions/what-is-cyber-security*
 
 Cyber Security can be further classified into 2 types. 
 
