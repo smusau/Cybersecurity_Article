@@ -1,5 +1,5 @@
 
-**Phishing Awareness**
+** ## Phishing Awareness ## **
 
 **Abstract**
 
@@ -17,7 +17,8 @@ Cyber security is the practice of defending computers, servers, mobile devices, 
 
 Cyber Security can be further classified into 2 types. 
 
-**Cybercrime** – these are Crimes done against individuals or corporations** 
+**Cybercrime** – these are Crimes done against individuals or corporations 
+
 **Cyber warfare** - this are crimes done against a  state.
 
 Now that we have an idea of what cyber security is, let’s look at some of the major threats.
